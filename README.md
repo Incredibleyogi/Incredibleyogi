@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm MERN full stack developer chasing real world problems<br>B.Tech final year student specialized in information technology
+I'm MERN full stack developer chasing real world problems<br> specialized in information technology<br> automate the Application and workflow
 
 
 ## 🌐 Socials:
